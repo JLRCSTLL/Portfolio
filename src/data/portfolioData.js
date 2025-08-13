@@ -15,8 +15,8 @@ export const personalInfo = {
 };
 
 export const stats = {
-  projects: "50+",
-  experience: "3+",
+  projects: "10+",
+  experience: "1year",
   passion: "100%"
 };
 

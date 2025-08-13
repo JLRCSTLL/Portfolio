@@ -1,5 +1,5 @@
 import { ArrowDown } from 'lucide-react';
-import profileImage from '../assets/me.png';
+import profileImage from '../assets/meee.jpg';
 import { personalInfo } from '../data/portfolioData';
 
 const Hero = () => {
