@@ -11,6 +11,9 @@ const Footer = () => {
             <div className="text-sm text-gray-400">
               © 2025 All rights reserved
             </div>
+            <div className="text-sm text-gray-400">
+              EAT | SLEEP | CODE | REPEAT
+            </div>
           </div>
         </div>
       </div>

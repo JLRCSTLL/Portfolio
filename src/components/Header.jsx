@@ -13,7 +13,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <div className="text-2xl font-bold text-black">
+          <div className="text-2xl font-bold text-red-500">
             RNZ
           </div>
 
@@ -27,6 +27,9 @@ const Header = () => {
             </a>
             <a href="#about" className="text-sm font-medium text-gray-600 hover:text-black transition-colors">
               ABOUT
+            </a>
+            <a href="#certificates" className="text-sm font-medium text-gray-600 hover:text-black transition-colors">
+              CERTIFICATES
             </a>
             <a href="#contact" className="text-sm font-medium text-gray-600 hover:text-black transition-colors">
               CONTACT
@@ -66,6 +69,13 @@ const Header = () => {
                 onClick={() => setIsMenuOpen(false)}
               >
                 ABOUT
+              </a>
+              <a 
+                href="#certificates" 
+                className="text-sm font-medium text-gray-600 hover:text-black transition-colors"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                CERTIFICATES
               </a>
               <a 
                 href="#contact" 

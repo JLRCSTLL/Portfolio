@@ -15,8 +15,8 @@ export const personalInfo = {
 };
 
 export const stats = {
-  projects: "10+",
-  experience: "1year",
+  projects: "5+",
+  experience: "1",
   passion: "100%"
 };
 
@@ -79,6 +79,63 @@ export const socialLinks = [
     url: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242",
     icon: "Linkedin"
   }
+];
+
+export const certificates = [
+  {
+    id: 1,
+    title: "CCNA: Introduction to Networks",
+    issuer: "Cisco",
+    date: "2022",
+    description: "Validates knowledge of networking fundamentals including IP addressing, subnetting, network protocols, and basic routing and switching concepts.",
+    skills: ["Networking Fundamentals", "IP Addressing", "Subnetting", "Routing", "Switching", "Network Protocols"],
+    verifyUrl: "https://www.credly.com/badges/62f1823b-fd1c-40d4-8d4d-833b742173e2"
+  },
+  {
+    id: 2,
+    title: "CCNA: Switching, Routing, and Wireless Essentials",
+    issuer: "Cisco",
+    date: "2023",
+    description: "Demonstrates knowledge and skills in switching, routing, and wireless networks, including VLANs, inter-VLAN routing, static and dynamic routing, and wireless LAN concepts.",
+    skills: ["Switching", "Routing", "Wireless LAN", "VLANs", "Inter-VLAN Routing", "Dynamic Routing Protocols"],
+    verifyUrl: "https://www.credly.com/badges/ac7ba1bf-b45e-4c2f-b285-cce08d8b931a/accept"
+  },
+  {
+    id: 3,
+    title: "CCNA: Enterprise Networking, Security, and Automation",
+    issuer: "Cisco",
+    date: "2023",
+    description: "Validates knowledge of enterprise networking concepts, network security, and automation, including WAN technologies, QoS, VPNs, ACLs, and the use of automation tools for network management.",
+    skills: ["Enterprise Networking", "Network Security", "Automation", "WAN Technologies", "VPN", "ACLs", "QoS"],
+    verifyUrl: "https://www.credly.com/badges/b4e2c0b6-6449-4d36-9732-8d108c6afa21/accept"
+  },
+  {
+    id: 4,
+    title: "Introduction to Cybersecurity",
+    issuer: "Cisco",
+    date: "2023",
+    description: "Provides foundational knowledge of cybersecurity concepts, including cyber threats, attack vectors, security principles, and the importance of cybersecurity in the digital world.",
+    skills: ["Cybersecurity Fundamentals", "Threat Analysis", "Attack Vectors", "Security Principles", "Network Security Basics", "Cyber Defense"],
+    verifyUrl: "https://www.netacad.com/certificates?issuanceId=f6d6a1d6-9bc2-4b21-b506-87aa08f07b21"
+  },
+  {
+    id: 5,
+    title: "Cyber Threat Management",
+    issuer: "Cisco",
+    date: "2023",
+    description: "Covers the identification, analysis, and mitigation of cyber threats, focusing on risk management, incident response, and the implementation of security policies and best practices.",
+    skills: ["Threat Analysis", "Incident Response", "Risk Management", "Security Policies", "Cyber Defense", "Network Security"],
+    verifyUrl: "https://www.credly.com/badges/4c92f32c-3e5d-443d-9416-13e4e01c2a35"
+  },
+  {
+    id: 6,
+    title: "Endpoint Security",
+    issuer: "Cisco",
+    date: "2023",
+    description: "Covers the identification, analysis, and mitigation of cyber threats, focusing on risk management, incident response, and the implementation of security policies and best practices.",
+    skills: ["Threat Analysis", "Incident Response", "Risk Management", "Security Policies", "Cyber Defense", "Network Security"],
+    verifyUrl: "https://www.credly.com/badges/4c92f32c-3e5d-443d-9416-13e4e01c2a35"
+  },
 ];
 
 export const contactInfo = [
