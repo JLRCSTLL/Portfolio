@@ -111,31 +111,79 @@ export const certificates = [
   },
   {
     id: 4,
-    title: "Introduction to Cybersecurity",
-    issuer: "Cisco",
-    date: "2023",
-    description: "Provides foundational knowledge of cybersecurity concepts, including cyber threats, attack vectors, security principles, and the importance of cybersecurity in the digital world.",
-    skills: ["Cybersecurity Fundamentals", "Threat Analysis", "Attack Vectors", "Security Principles", "Network Security Basics", "Cyber Defense"],
-    verifyUrl: "https://www.netacad.com/certificates?issuanceId=f6d6a1d6-9bc2-4b21-b506-87aa08f07b21"
+    title: "Crestron Technician Fundamentals (CTI-CTF)",
+    issuer: "Crestron Electronics",
+    date: "2025",
+    description: "Introduces technicians to the fundamentals of Crestron systems, including installation, configuration, troubleshooting, and maintenance of Crestron hardware and basic programming concepts.",
+    skills: ["Crestron Systems", "Installation", "Configuration", "Troubleshooting", "Maintenance", "Basic Programming"],
+    verifyUrl: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242/details/certifications/1756295568290/single-media-viewer?type=IMAGE&profileId=ACoAADw0sC8B20MzPrmCJBq54dewQiHYx3ryiBs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BcLQLOOJiS16l0o778sDyTg%3D%3D"
   },
   {
     id: 5,
-    title: "Cyber Threat Management",
-    issuer: "Cisco",
-    date: "2023",
-    description: "Covers the identification, analysis, and mitigation of cyber threats, focusing on risk management, incident response, and the implementation of security policies and best practices.",
-    skills: ["Threat Analysis", "Incident Response", "Risk Management", "Security Policies", "Cyber Defense", "Network Security"],
-    verifyUrl: "https://www.credly.com/badges/4c92f32c-3e5d-443d-9416-13e4e01c2a35"
+    title: "Foundations of Crestron Programming (CTI-P101)",
+    issuer: "Crestron Electronics",
+    date: "2025",
+    description: "Covers the basics of programming Crestron control systems using Crestron Studio and SIMPL Windows, including creating user interfaces, programming logic, and integrating various devices.",
+    skills: ["Crestron Programming", "Crestron Studio", "SIMPL Windows", "User Interface Design", "Programming Logic", "Device Integration"],
+    verifyUrl: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242/details/certifications/1756604098458/single-media-viewer?type=IMAGE&profileId=ACoAADw0sC8B20MzPrmCJBq54dewQiHYx3ryiBs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BcLQLOOJiS16l0o778sDyTg%3D%3D"
   },
   {
     id: 6,
-    title: "Endpoint Security",
-    issuer: "Cisco",
-    date: "2023",
-    description: "Covers the identification, analysis, and mitigation of cyber threats, focusing on risk management, incident response, and the implementation of security policies and best practices.",
-    skills: ["Threat Analysis", "Incident Response", "Risk Management", "Security Policies", "Cyber Defense", "Network Security"],
-    verifyUrl: "https://www.credly.com/badges/4c92f32c-3e5d-443d-9416-13e4e01c2a35"
+    title: "YCPS Basics Completion Certificate",
+    issuer: "Yamaha Audioversity Online",
+    date: "2025",
+    description: "Covers the fundamental concepts of Yamaha Commercial Audio Systems, including basic sound reinforcement principles, system design, and configuration using Yamaha professional audio equipment.",
+    skills: ["Yamaha Audio Systems", "Sound Reinforcement", "System Design", "Configuration", "Professional Audio Equipment"],
+    verifyUrl: "https://mycourse.app/XNOabzCuPR9qOd65h"
   },
+  {
+    id: 7,
+    title: "YCPS Level 1 Completion Certificate",
+    issuer: "Yamaha Audioversity Online",
+    date: "2025",
+    description: "Provides in-depth training on Yamaha Commercial Audio Systems, covering sound reinforcement principles, system design, device configuration, and practical applications of professional audio equipment.",
+    skills: ["Yamaha Audio Systems",
+    "Sound Reinforcement",
+    "System Design",
+    "Audio Configuration",
+    "Professional Audio Equipment",
+    "Troubleshooting"],
+    verifyUrl: "https://mycourse.app/cPFeeL2UN6LxGQ12I"
+  },
+  {
+  id: 8,
+  title: "YCPS Level 2 Completion Certificate",
+  issuer: "Yamaha Audioversity Online",
+  date: "2025",
+  expiration: "Sep 2028",
+  credentialId: "67bffb86542579096a0ab9da",
+  description: "Focuses on advanced configuration and optimization of Yamaha Commercial Audio Systems, including DSP programming, networked audio systems, and system tuning for professional sound environments.",
+  skills: [
+    "DSP Programming",
+    "Networked Audio Systems",
+    "System Optimization",
+    "Advanced Audio Configuration",
+    "Professional Sound Tuning",
+    "Troubleshooting"],
+  verifyUrl: "https://mycourse.app/oXz7zyRV0GByGAccD"
+  },
+  {
+  id: 9,
+  title: "Q-SYS Level Zero Training",
+  issuer: "QSC",
+  date: "Sep 2025",
+  expiration: "Sep 2028",
+  description: "Introduces the fundamentals of the Q-SYS Ecosystem, including system components, signal flow, and basic design principles using Q-SYS Designer Software.",
+  skills: [
+    "Q-SYS Designer Software",
+    "Signal Flow",
+    "System Components",
+    "Basic System Design",
+    "AV Control Fundamentals",
+    "Networked AV"],
+  verifyUrl: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242/details/certifications/1758074988436/single-media-viewer?type=IMAGE&profileId=ACoAADw0sC8B20MzPrmCJBq54dewQiHYx3ryiBs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuFi5thDGRe%2Bc1slfbqcxQg%3D%3D"
+}
+
 ];
 
 export const contactInfo = [
