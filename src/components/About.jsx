@@ -33,7 +33,7 @@ const About = () => {
               </div>
               <div>
                 <div className="text-3xl font-bold text-black">{stats.experience}</div>
-                <div className="text-sm text-gray-500 uppercase tracking-wider">Years</div>
+                <div className="text-sm text-gray-500 uppercase tracking-wider">Year</div>
               </div>
               <div>
                 <div className="text-3xl font-bold text-black">{stats.passion}</div>

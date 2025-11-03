@@ -5,7 +5,7 @@ export const personalInfo = {
   title: "AV Technical Support Specialist",
   subtitle: "Technical support specialist ensuring seamless AV experiences that make an impact.",
   location: "Taytay, Rizal",
-  email: "jlr@microdata.com.ph",
+  email: "castillojohnlloydrenzo@gmai.com",
   phone: "+639271126259",
   bio: [
     "I’m a dedicated AV Technical Support Specialist passionate about delivering seamless audio-visual experiences that combine technical precision with engaging presentation.",
@@ -182,7 +182,43 @@ export const certificates = [
     "AV Control Fundamentals",
     "Networked AV"],
   verifyUrl: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242/details/certifications/1758074988436/single-media-viewer?type=IMAGE&profileId=ACoAADw0sC8B20MzPrmCJBq54dewQiHYx3ryiBs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuFi5thDGRe%2Bc1slfbqcxQg%3D%3D"
-}
+  },
+  {
+  id: 10,
+  title: "Q-SYS Level One Training",
+  issuer: "QSC",
+  date: "October 2025",
+  expiration: "October 2028",
+  description: "The Q-SYS Level One Training provides a foundational understanding of the Q-SYS Ecosystem. It covers the architecture, core components, and principles of audio, video, and control integration using Q-SYS Designer Software. Participants learn system design basics, signal flow, and configuration techniques to build simple AV solutions.",
+  skills: [
+    "Q-SYS Designer Software",
+    "Signal Flow",
+    "System Components",
+    "Basic System Design",
+    "AV Control Fundamentals",
+    "Networked AV",
+    "System Configuration",
+    "AV Integration"],
+  verifyUrl: "https://www.linkedin.com/in/john-lloyd-renzo-castillo-57b338242/details/certifications/1758074988436/single-media-viewer?type=IMAGE&profileId=ACoAADw0sC8B20MzPrmCJBq54dewQiHYx3ryiBs&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BuFi5thDGRe%2Bc1slfbqcxQg%3D%3D"
+  },
+  {
+  id: 11,
+  title: "Q-SYS Architect In-Classroom Training",
+  issuer: "QSC",
+  date: "October 2025",
+  expiration: "October 2028",
+  description: "The Q-SYS Architect In-Classroom Training provides hands-on experience in designing and implementing complex Q-SYS systems. This course expands on foundational concepts, focusing on large-scale AV system architecture, network design, redundancy, and advanced control integration. Participants gain practical knowledge through guided exercises using Q-SYS Designer Software in real-world scenarios.",
+  skills: [
+    "Advanced Q-SYS System Design",
+    "Network Architecture",
+    "Signal Routing and Redundancy",
+    "AV Control Programming",
+    "Q-SYS Designer Software",
+    "System Optimization",
+    "Large-Scale AV Integration",
+    "System Commissioning"],
+  verifyUrl: "https://media.licdn.com/dms/image/v2/D562DAQH8Chp_x6jKnw/profile-treasury-image-shrink_160_160/B56ZoJW9YrHkAk-/0/1761093610445?e=1762758000&v=beta&t=pKMdtOTPJjZ2GG29B2oxGTQq6Eh7mOODBnrTK6sXl_w"
+  }
 
 ];
 
